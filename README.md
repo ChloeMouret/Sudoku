@@ -3,11 +3,13 @@
 ## Setup
 
 First of all, you can clone the repository by running :
+
     ```
     git clone https://github.com/BeedleForTest/Sudoku.git
     ```
 
 To run it, you can either decide to use a virtual env or not. I'll cover this option.
+
 	```
     cd Sudoku
     python -m venv venv
